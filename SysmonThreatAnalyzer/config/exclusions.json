@@ -1,0 +1,17 @@
+{
+    "excluded_ips": [
+        "1.1.1.1",
+        "8.8.8.8"
+    ],
+    "excluded_paths": [
+        "C:\\Users\\eren\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "C:\\Windows\\System32\\svchost.exe",
+        "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+        "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedgeview.exe",
+        "C:\\Program Files (x86)\\BraveSoftware\\Update\\BraveUpdate.exe",
+        "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\",
+        "C:\\Windows\\System32\\ctfmon.exe",
+        "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "C:\\Users\\eren\\AppData\\Local\\Programs\\Python\\Python313\\python.exe"
+    ]
+}
